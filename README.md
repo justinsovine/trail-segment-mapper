@@ -4,4 +4,4 @@ A lightweight tool for visualizing multiple trail segments on one map.
 
 [Development Notes](NOTES.md)
 
-![Screenshot of the Project](screenshot.png)
+![Screenshot of the Project](capture.png)
