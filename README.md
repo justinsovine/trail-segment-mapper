@@ -1,3 +1,5 @@
-# Map
+# Trail Segment Mapper
 
-Lorem ipsum dolor sit amet.
+A lightweight tool for visualizing multiple trail segments on one map.
+
+[Development Notes](NOTES.md)
