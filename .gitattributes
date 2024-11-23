@@ -1,0 +1,18 @@
+# Explicitly set primary languages
+*.js linguist-language=JavaScript
+*.css linguist-language=CSS
+*.php linguist-language=PHP
+*.yaml linguist-language=YAML
+*.yml linguist-language=YAML
+Dockerfile linguist-language=Dockerfile
+*.conf linguist-language=ApacheConf
+
+# Mark GPX files as binary to exclude them from language detection
+*.gpx linguist-generated=true
+
+# Exclude markdown and LICENSE from language stats
+*.md linguist-documentation=true
+LICENSE linguist-documentation=true
+
+# Set any other non-code files to be ignored in language stats
+*.txt linguist-documentation=true
