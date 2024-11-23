@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Map</title>
+    <title>Trail Segment Mapper</title>
     <!-- Tailwind -->
     <script src="https://cdn.tailwindcss.com?plugins=forms"></script>
     
@@ -19,7 +19,7 @@
     <div class="min-h-full flex items-center justify-center">
 
         <main class="flex items-center justify-center min-h-screen">
-            <div id="map" class="w-[50vw] h-[50vh]"></div>
+            <div id="map" class="w-[90vw] h-[90vh]"></div>
         </main>
 
     </div>
